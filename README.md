@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently Data structers
+- 🌱 I’m currently Learn about Data structers
 - 💬 Ask me about C/C++
 - 📫 How to reach me: prox.dhiya@gmail.com
 - 😄 Pronouns: Dhiya
