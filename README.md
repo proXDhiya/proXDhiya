@@ -7,7 +7,7 @@
 - 😄 Pronouns: Dhiya
 - ⚡ Fun fact: 💳 = 00.00$
 
-[![proXDhiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=proXDhiya&theme=dracula)](https://github.com/proXDhiya/github-readme-activity-graph)
+[![proXDhiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=proXDhiya&theme=github)](https://github.com/proXDhiya/github-readme-activity-graph)
 
 
 [![GH stats 🔝📈](https://github-readme-stats.vercel.app/api?username=proXDhiya&count_private=true&show_icons=true&theme=tokyonight&line_height=33)](https://github.com/proXDhiya?tab=repositories&q=&type=public)
