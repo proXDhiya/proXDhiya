@@ -13,9 +13,9 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proXdhiya&theme=dracula" alt="kacemws" /></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=proXDhiya&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="proXdhiya" /></p>
-
 [![proXDhiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=proXDhiya&theme=github)](https://github.com/proXDhiya/github-readme-activity-graph)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=proXDhiya&show_icons=true&theme=tgotham&locale=en&layout=compact" alt="proXdhiya" /></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=proXDhiya&show_icons=true&theme=gotham" alt="proXdhiya" />
 
