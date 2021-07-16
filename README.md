@@ -9,7 +9,9 @@
 
 <hr>
 
-**🐱 My Github Stats** 
+<p style="text-align: center; border-bottom: 2px solid orange; padding: 0; width: 150px; margin: 0 auto; margin-bottom: 30px;">
+    <b>🐱 My Github Stats</b>
+</p>
 
 <p align="center">
 <a href="https://github.com/proXdhiya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proXdhiya&theme=dracula" alt="proXDhiya" /></a>
