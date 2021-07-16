@@ -7,15 +7,19 @@
 - 😄 Pronouns: Dhiya
 - ⚡ Fun fact: 💳 = 00.00$
 
+<hr>
+
 **🐱 My Github Stats** 
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proXdhiya&theme=dracula" alt="kacemws" /></a>
+<a href="https://github.com/proXdhiya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proXdhiya&theme=dracula" alt="proXDhiya" /></a>
 </p>
+
 
 [![proXDhiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=proXDhiya&theme=github)](https://github.com/proXDhiya/github-readme-activity-graph)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=proXDhiya&show_icons=true&theme=tgotham&locale=en&layout=compact" alt="proXdhiya" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=proXDhiya&show_icons=true&theme=gotham&locale=en&layout=compact" alt="proXdhiya" /></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=proXDhiya&show_icons=true&theme=gotham" alt="proXdhiya" />
 
