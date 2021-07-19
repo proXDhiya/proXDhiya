@@ -9,19 +9,19 @@
 
 <hr>
 
-<p style="text-align: center; border-bottom: 2px solid orange; padding: 0; width: 150px; margin: 0 auto; margin-bottom: 30px;">
+<h3 style="text-align: center; border-bottom: 2px solid orange; padding: 0 0 10px 0; width: 220px; margin: 0 auto; margin-bottom: 30px;">
     <b>🐱 My Github Stats</b>
-</p>
+</h3>
 
 <p align="center">
 <a href="https://github.com/proXdhiya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proXdhiya&theme=dracula" alt="proXDhiya" /></a>
 </p>
 
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=proXDhiya&theme=github" alt="proXDhiya" />
+</p>
 
-[![proXDhiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=proXDhiya&theme=github)](https://github.com/proXDhiya/github-readme-activity-graph)
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=proXDhiya&show_icons=true&theme=gotham&locale=en&layout=compact" alt="proXdhiya" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proXDhiya&count_private=true&theme=gotham&line_height=30&hide=html&layout=default" alt="proXdhiya" /></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=proXDhiya&show_icons=true&theme=gotham" alt="proXdhiya" />
 
