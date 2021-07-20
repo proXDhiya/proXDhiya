@@ -17,16 +17,17 @@
 <a href="https://github.com/proXdhiya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proXdhiya&theme=dracula" alt="proXDhiya" /></a>
 </p>
 
-<p align="center">
+
+<p align="center" style="padding-top: 50px;">
 <img src="https://activity-graph.herokuapp.com/graph?username=proXDhiya&theme=github" alt="proXDhiya" />
 </p>
 
 
 <p align="center">
-    <img style="width: 60%;" src="https://github-readme-stats.vercel.app/api?username=proXDhiya&show_icons=true&theme=gotham" alt="proXdhiya" />
-    <img style="width: 60%;" src="https://github-readme-streak-stats.herokuapp.com/?user=proXDhiya&theme=gotham" alt="stats2" />
+    <img style="width: 450px; height: 300px;" src="https://github-readme-stats.vercel.app/api?username=proXDhiya&show_icons=true&theme=gotham" alt="proXdhiya" />
+    <img style="width: 450px; height: 300px;" src="https://github-readme-streak-stats.herokuapp.com/?user=proXDhiya&theme=gotham" alt="stats2" />
 </p>
 
 <p align="center">
-    <img style="width: 35%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proXDhiya&count_private=true&theme=gotham&line_height=30&hide=html&layout=default" alt="proXdhiya" />
+    <img style="width: 350px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proXDhiya&count_private=true&theme=gotham&line_height=30&hide=html&layout=default" alt="proXdhiya" />
 </p>
