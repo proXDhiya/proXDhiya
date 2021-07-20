@@ -25,7 +25,7 @@
 
 <p align="center">
     <img style="width: 450px; height: 300px;" src="https://github-readme-stats.vercel.app/api?username=proXDhiya&show_icons=true&theme=gotham" alt="proXdhiya" />
-    <img style="width: 450px; height: 300px;" src="https://github-readme-streak-stats.herokuapp.com/?user=proXDhiya&theme=gotham" alt="stats2" />
+    <img style="width: 450px; height: 300px;" src="http://github-readme-streak-stats.herokuapp.com?user=proXDhiya&theme=gotham&hide_border=true&fire=DD5A1A&ring=DDBD1C&currStreakNum=439C5D)" />
 </p>
 
 <p align="center">
