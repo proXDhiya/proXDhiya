@@ -1,13 +1,19 @@
-### Hi there 👋
+<div style="text-align: center; font-size: 25px;">
+    I'M DHIYA
+</div>
+<div style="text-align: center; font-size: 20px; margin-bottom: 20px;">
+    junior front end developer
+</div>
 
+---
 
-- 🌱 I’m currently Learn about Data structers
-- 💬 Ask me about C/C++
+- 🌱 I’m currently Learn **JS**
+- 💬 Ask me about `C/C++` & `CSS3` 
 - 📫 How to reach me: prox.dhiya@gmail.com
 - 😄 Pronouns: Dhiya
-- ⚡ Fun fact: 💳 = 00.00$
+- ⚡ Fun fact: I spend a lot of time thinking about how to make a solution for problems
 
-<hr>
+---
 
 <h3 style="text-align: center; border-bottom: 2px solid orange; padding: 0 0 10px 0; width: 220px; margin: 0 auto; margin-bottom: 30px;">
     <b>🐱 My Github Stats</b>
