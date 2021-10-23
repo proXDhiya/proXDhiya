@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently Learn **JS**
-- 💬 Ask me about `C/C++` & `CSS3` 
+- 💬 Ask me about `C/C++`, `CSS3`, `Discord.js`, `JS`, `node` 
 - 📫 How to reach me: prox.dhiya@gmail.com
 - 😄 Pronouns: Dhiya
 - ⚡ Fun fact: I spend a lot of time thinking about how to make a solution for problems
