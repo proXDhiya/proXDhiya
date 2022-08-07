@@ -7,6 +7,7 @@
 ### I'm a software developer and a web developer
 
 - 🔭 Bachelor's degree in Computer Science
+- 💻 I'm currently learning [React.js](https://reactjs.org/)
 - 🔥 I'm currently leveling up my skills in databases
 - 👨🏻‍💻 I'm currently working on a roadmap creator app
 - 👥 I', looking for a team to work on a project
