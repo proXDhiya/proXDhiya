@@ -1,25 +1,55 @@
-<div style="text-align: center; font-size: 25px;">
-    I'M DHIYA
+## Hi there, I'm Proxdhiya - Kellouche dhiya [Portfolio](https://proxdhiya.github.io/proXDhiya-portfolio/)
+
+![Profile views](https://page-views.glitch.me/badge?page_id=proXDhiya.visitor-badge)
+[![Github](https://img.shields.io/github/followers/proXDhiya?label=Follow&style=social)](https://github.com/proXDhiya)
+[![wakatime](https://wakatime.com/badge/user/eee74027-39b5-400f-85f8-8cab13f6b3ae.svg)](https://wakatime.com/@eee74027-39b5-400f-85f8-8cab13f6b3ae)
+
+<br />
+
+### I'm a software developer and a web developer
+
+- 🔭 Bachelor's degree in Computer Science
+- 🔥 I'm currently leveling up my skills in databases
+- 👨🏻‍💻 I'm currently working on a roadmap creator app
+- 👥 I', looking for a team to work on a project
+- 📆 2022 Goals: Contribute to the open source community
+- ❇️ Fun fact: i love to draw
+
+<br />
+
+### Languages and tools
+![](https://skillicons.dev/icons?i=c)
+![](https://skillicons.dev/icons?i=cpp)
+![](https://skillicons.dev/icons?i=java)
+![](https://skillicons.dev/icons?i=php)
+![](https://skillicons.dev/icons?i=js)
+![](https://skillicons.dev/icons?i=html)
+![](https://skillicons.dev/icons?i=css)
+![](https://skillicons.dev/icons?i=pug)
+![](https://skillicons.dev/icons?i=dart)
+![](https://skillicons.dev/icons?i=flutter)
+![](https://skillicons.dev/icons?i=nodejs)
+![](https://skillicons.dev/icons?i=express)
+![](https://skillicons.dev/icons?i=electron)
+![](https://skillicons.dev/icons?i=bash)
+![](https://skillicons.dev/icons?i=git)
+![](https://skillicons.dev/icons?i=github)
+![](https://skillicons.dev/icons?i=mysql)
+![](https://skillicons.dev/icons?i=postgresql)
+![](https://skillicons.dev/icons?i=sqlite)
+![](https://skillicons.dev/icons?i=figma)
+![](https://skillicons.dev/icons?i=vscode)
+![](https://skillicons.dev/icons?i=heroku)
+![](https://skillicons.dev/icons?i=discord)
+![](https://skillicons.dev/icons?i=bots)
+
+<br />
+
+![My Github Graph](https://activity-graph.herokuapp.com/graph?username=proXDhiya&bg_color=dcf0f3&color=4b1a1c&line=fa595f)
+
+<br />
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=proXDhiya&title_color=fa595f&bg_color=dcf0f3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=proXDhiya&background=dcf0f3&ring=fa595f&currStreakLabel=4b1a1c"/>
 </div>
-<div style="text-align: center; font-size: 20px; margin-bottom: 20px;">
-    junior front end developer
-</div>
-
----
-
-- 🌱 I’m currently Learn **JS**
-- 💬 Ask me about `C/C++`, `CSS3`, `Discord.js`, `JS`, `node` 
-- 📫 How to reach me: prox.dhiya@gmail.com
-- 😄 Pronouns: Dhiya
-- ⚡ Fun fact: I spend a lot of time thinking about how to make a solution for problems
-
----
-
-<h3 style="text-align: center; border-bottom: 2px solid orange; padding: 0 0 10px 0; width: 220px; margin: 0 auto; margin-bottom: 30px;">
-    <b>🐱 My Github Stats</b>
-</h3>
-<a href="https://github.com/proXdhiya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proXdhiya&theme=dracula" alt="proXDhiya" /></a>
-<img src="https://activity-graph.herokuapp.com/graph?username=proXDhiya&theme=github" alt="proXDhiya" />
-<img src="https://github-readme-stats.vercel.app/api?username=proXDhiya&show_icons=true&theme=gotham" alt="proXdhiya" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=proXDhiya&theme=gotham" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proXDhiya&count_private=true&theme=gotham&line_height=30&hide=html&layout=default" alt="proXdhiya" />
