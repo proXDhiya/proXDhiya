@@ -4,8 +4,6 @@
 [![Github](https://img.shields.io/github/followers/proXDhiya?label=Follow&style=social)](https://github.com/proXDhiya)
 [![wakatime](https://wakatime.com/badge/user/eee74027-39b5-400f-85f8-8cab13f6b3ae.svg)](https://wakatime.com/@eee74027-39b5-400f-85f8-8cab13f6b3ae)
 
-<br />
-
 ### I'm a software developer and a web developer
 
 - 🔭 Bachelor's degree in Computer Science
@@ -15,7 +13,7 @@
 - 📆 2022 Goals: Contribute to the open source community
 - ❇️ Fun fact: i love to draw
 
-<br />
+---
 
 ### Languages and tools
 
