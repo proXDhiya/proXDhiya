@@ -18,6 +18,7 @@
 <br />
 
 ### Languages and tools
+
 ![](https://skillicons.dev/icons?i=c)
 ![](https://skillicons.dev/icons?i=cpp)
 ![](https://skillicons.dev/icons?i=java)
@@ -53,3 +54,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=proXDhiya&title_color=fa595f&bg_color=dcf0f3"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=proXDhiya&background=dcf0f3&ring=fa595f&currStreakLabel=4b1a1c"/>
 </div>
+
+|  |  |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api?username=proXDhiya&title_color=fa595f&bg_color=dcf0f3"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=proXDhiya&background=dcf0f3&ring=fa595f&currStreakLabel=4b1a1c"/> |
