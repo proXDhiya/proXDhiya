@@ -7,9 +7,7 @@
 ### I'm a software developer and a web developer
 
 - 🔭 Bachelor's degree in Computer Science
-- 💻 I'm currently learning [React.js](https://reactjs.org/)
-- 🔥 I'm currently leveling up my skills in databases
-- 👨🏻‍💻 I'm currently working on a roadmap creator app
+- 💻 I'm currently learning [Angular.js](https://angular.io/)
 - 👥 I', looking for a team to work on a project
 - 📆 2022 Goals: Contribute to the open source community
 - ❇️ Fun fact: i love to draw
@@ -30,6 +28,7 @@
 ![](https://skillicons.dev/icons?i=flutter)
 ![](https://skillicons.dev/icons?i=nodejs)
 ![](https://skillicons.dev/icons?i=express)
+![](https://skillicons.dev/icons?i=angular)
 ![](https://skillicons.dev/icons?i=electron)
 ![](https://skillicons.dev/icons?i=bash)
 ![](https://skillicons.dev/icons?i=git)
