@@ -14,6 +14,10 @@
 
 ---
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=proxdhiya">
+
+---
+
 ### Languages and tools
 
 ![](https://skillicons.dev/icons?i=c)
@@ -24,12 +28,9 @@
 ![](https://skillicons.dev/icons?i=html)
 ![](https://skillicons.dev/icons?i=css)
 ![](https://skillicons.dev/icons?i=pug)
-![](https://skillicons.dev/icons?i=dart)
-![](https://skillicons.dev/icons?i=flutter)
 ![](https://skillicons.dev/icons?i=nodejs)
 ![](https://skillicons.dev/icons?i=express)
 ![](https://skillicons.dev/icons?i=angular)
-![](https://skillicons.dev/icons?i=electron)
 ![](https://skillicons.dev/icons?i=bash)
 ![](https://skillicons.dev/icons?i=git)
 ![](https://skillicons.dev/icons?i=github)
