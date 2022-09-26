@@ -1,4 +1,5 @@
-## Hi there, I'm Proxdhiya - Kellouche dhiya [Portfolio](https://proxdhiya.github.io/proXDhiya-portfolio/)
+## Hi there, I'm Proxdhiya - Kellouche dhiya
+### [Portfolio](https://proxdhiya.github.io/proXDhiya-portfolio/)
 
 ![Profile views](https://page-views.glitch.me/badge?page_id=proXDhiya.visitor-badge)
 [![Github](https://img.shields.io/github/followers/proXDhiya?label=Follow&style=social)](https://github.com/proXDhiya)
@@ -7,8 +8,9 @@
 ### I'm a software developer and a web developer
 
 - 🔭 Bachelor's degree in Computer Science
-- 💻 I'm currently learning [Angular.js](https://angular.io/)
-- 👥 I', looking for a team to work on a project
+- 💻 I'm currently learning OS Design
+- 📚 I'm currently reading [The Design of the UNIX Operating System](https://www.amazon.com/Design-UNIX-Operating-System-Addison-Wesley/dp/0201633469)
+- 👥 I'm looking for a team to work on a project
 - 📆 2022 Goals: Contribute to the open source community
 - ❇️ Fun fact: i love to draw
 
