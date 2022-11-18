@@ -9,7 +9,7 @@
 
 - 🔭 Bachelor's degree in Computer Science
 - 💻 I'm currently learning OS Design
-- 📚 I'm currently reading [The Design of the UNIX Operating System](https://www.amazon.com/Design-UNIX-Operating-System-Addison-Wesley/dp/0201633469)
+- 📚 I'm currently reading [The Definitive Guide to Java Swing](https://www.amazon.com/Definitive-Guide-Swing-Guides-Paperback/dp/1590594479)
 - 👥 I'm looking for a team to work on a project
 - 📆 2022 Goals: Contribute to the open source community
 - ❇️ Fun fact: i love to draw
@@ -27,6 +27,7 @@
 ![](https://skillicons.dev/icons?i=java)
 ![](https://skillicons.dev/icons?i=php)
 ![](https://skillicons.dev/icons?i=js)
+![](https://skillicons.dev/icons?i=python)
 ![](https://skillicons.dev/icons?i=html)
 ![](https://skillicons.dev/icons?i=css)
 ![](https://skillicons.dev/icons?i=pug)
