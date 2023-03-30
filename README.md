@@ -1,22 +1,21 @@
-## Hi there, I'm Proxdhiya - Kellouche dhiya
-### [Portfolio](https://proxdhiya.github.io/proXDhiya-portfolio/)
+## Hi there, I'm Proxdhiya
+### [My Portfolio](https://proxdhiya.github.io/proXDhiya-portfolio/)
 
 ![Profile views](https://page-views.glitch.me/badge?page_id=proXDhiya.visitor-badge)
 [![Github](https://img.shields.io/github/followers/proXDhiya?label=Follow&style=social)](https://github.com/proXDhiya)
 [![wakatime](https://wakatime.com/badge/user/eee74027-39b5-400f-85f8-8cab13f6b3ae.svg)](https://wakatime.com/@eee74027-39b5-400f-85f8-8cab13f6b3ae)
 
-### I'm a software developer and a web developer
+### I'm a full stack web developer and a master degree student
 
-- 🔭 Bachelor's degree in Computer Science
-- 💻 I'm currently learning OS Design
-- 📚 I'm currently reading [The Definitive Guide to Java Swing](https://www.amazon.com/Definitive-Guide-Swing-Guides-Paperback/dp/1590594479)
-- 👥 I'm looking for a team to work on a project
-- 📆 2022 Goals: Contribute to the open source community
-- ❇️ Fun fact: i love to draw
+- 🔭 Bachelor's degree in Computer Science - **2022**
+- 💻 I'm currently learning **GraphQL**
+- 📚 I'm currently reading [The Road to GraphQL](https://books.google.dz/books/about/The_Road_to_GraphQL.html?id=axLmDwAAQBAJ&source=kp_cover&redir_esc=y)
+- 📆 2023 Goals: Help people to learn programming and web development
+- ❇️ Fun fact: I love to Draw 🖌
 
 ---
 
-![Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=proXDhiya)
+![Status](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=proXDhiya&style=--header-bg-color:%21000;--border-radius:5px)
 
 ---
 
@@ -52,7 +51,7 @@
 
 <br />
 
-![My Github Graph](https://activity-graph.herokuapp.com/graph?username=proXDhiya&bg_color=dcf0f3&color=4b1a1c&line=fa595f)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=proXDhiya&bg_color=d1e9ff&color=19191a&line=4c6c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 
