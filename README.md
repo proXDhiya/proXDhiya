@@ -8,14 +8,14 @@
 ### I'm a full stack web developer and a master degree student
 
 - 🔭 Bachelor's degree in Computer Science - **2022**
-- 💻 I'm currently learning **GraphQL**
-- 📚 I'm currently reading [The Road to GraphQL](https://books.google.dz/books/about/The_Road_to_GraphQL.html?id=axLmDwAAQBAJ&source=kp_cover&redir_esc=y)
+- 💻 I'm currently learning **ReactJS**
+- 📚 I'm currently reading: ***NULL***
 - 📆 2023 Goals: Help people to learn programming and web development
-- ❇️ Fun fact: I love to Draw 🖌
+- ❇️ Fun fact: I love to Draw 🖌 and watch Anime 📺
 
 ---
 
-![Status](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=proXDhiya&style=--header-bg-color:%21000;--border-radius:5px)
+![Status](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=proXDhiya&style=--header-bg-color:%21000;--border-radius:1px)
 
 ---
 
@@ -26,13 +26,16 @@
 ![](https://skillicons.dev/icons?i=java)
 ![](https://skillicons.dev/icons?i=php)
 ![](https://skillicons.dev/icons?i=js)
+![](https://skillicons.dev/icons?i=ts)
 ![](https://skillicons.dev/icons?i=python)
 ![](https://skillicons.dev/icons?i=html)
 ![](https://skillicons.dev/icons?i=css)
+![](https://skillicons.dev/icons?i=sass)
 ![](https://skillicons.dev/icons?i=pug)
 ![](https://skillicons.dev/icons?i=nodejs)
 ![](https://skillicons.dev/icons?i=express)
 ![](https://skillicons.dev/icons?i=angular)
+![](https://skillicons.dev/icons?i=react)
 ![](https://skillicons.dev/icons?i=bash)
 ![](https://skillicons.dev/icons?i=git)
 ![](https://skillicons.dev/icons?i=github)
@@ -43,6 +46,7 @@
 ![](https://skillicons.dev/icons?i=redis)
 ![](https://skillicons.dev/icons?i=cassandra)
 ![](https://skillicons.dev/icons?i=linux)
+![](https://skillicons.dev/icons?i=docker)
 ![](https://skillicons.dev/icons?i=figma)
 ![](https://skillicons.dev/icons?i=vscode)
 ![](https://skillicons.dev/icons?i=heroku)
@@ -58,3 +62,7 @@
 |  |  |
 | --- | --- |
 | <img src="https://github-readme-stats.vercel.app/api?username=proXDhiya&title_color=fa595f&bg_color=dcf0f3"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=proXDhiya&background=dcf0f3&ring=fa595f&currStreakLabel=4b1a1c"/> |
+
+<br />
+
+- 📫 How to reach me: **prox.dhiya@gmail.com**
