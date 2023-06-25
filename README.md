@@ -1,21 +1,16 @@
 ## Hi there, I'm Proxdhiya
-### [My Portfolio](https://proxdhiya.github.io/proXDhiya-portfolio/)
 
 ![Profile views](https://page-views.glitch.me/badge?page_id=proXDhiya.visitor-badge)
 [![Github](https://img.shields.io/github/followers/proXDhiya?label=Follow&style=social)](https://github.com/proXDhiya)
 [![wakatime](https://wakatime.com/badge/user/eee74027-39b5-400f-85f8-8cab13f6b3ae.svg)](https://wakatime.com/@eee74027-39b5-400f-85f8-8cab13f6b3ae)
 
-### I'm a full stack web developer and a master degree student
+### A backend engineer who loves to code and learn new things
 
 - 🔭 Bachelor's degree in Computer Science - **2022**
-- 💻 I'm currently learning **ReactJS**
-- 📚 I'm currently reading: ***NULL***
+- 💻 I'm currently learning **NodeJS EcoSystem**
+- 📚 I'm currently reading: **Express in Action**
 - 📆 2023 Goals: Help people to learn programming and web development
 - ❇️ Fun fact: I love to Draw 🖌 and watch Anime 📺
-
----
-
-![Status](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=proXDhiya&style=--header-bg-color:%21000;--border-radius:1px)
 
 ---
 
@@ -34,7 +29,6 @@
 ![](https://skillicons.dev/icons?i=pug)
 ![](https://skillicons.dev/icons?i=nodejs)
 ![](https://skillicons.dev/icons?i=express)
-![](https://skillicons.dev/icons?i=angular)
 ![](https://skillicons.dev/icons?i=react)
 ![](https://skillicons.dev/icons?i=bash)
 ![](https://skillicons.dev/icons?i=git)
@@ -55,7 +49,7 @@
 
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=proXDhiya&bg_color=d1e9ff&color=19191a&line=4c6c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=proxdhiya&bg_color=d1e5ff&color=4c7b9e&line=4c659e&point=3e4041&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 
