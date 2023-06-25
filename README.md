@@ -56,6 +56,6 @@
 
 ### My Roadmap.sh profile
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6497e884d99c9d673193e350?variant=dark&roadmaps=backend%2Cfrontend)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6497e884d99c9d673193e350?variant=dark)](https://roadmap.sh)
 
 - 📫 How to reach me: **prox.dhiya@gmail.com**
