@@ -1,61 +1,21 @@
-## Hi there, I'm Proxdhiya
+# 💫 About Me:
+Hi there! 👋<br><br>I’m Dhiya, a passionate backend engineer constantly exploring new horizons. Here’s what I’m currently up to:<br><br>	•	🔭 Working on: Vector Search Projects – delving into recommendation systems and semantic search.<br>	•	👯 Looking to Collaborate on: BunJS Projects – excited to explore high-performance solutions with Bun!<br>	•	🌱 Learning: Domain-Driven Design – enhancing my approach to structuring complex applications.<br>	•	💬 Ask me about: Backend Engineering – happy to chat about architectures, databases, or any backend challenges you’re facing.<br><br>Feel free to reach out if you’re interested in collaborating or discussing backend topics! 😊
 
-![Profile views](https://page-views.glitch.me/badge?page_id=proXDhiya.visitor-badge)
-[![Github](https://img.shields.io/github/followers/proXDhiya?label=Follow&style=social)](https://github.com/proXDhiya)
-[![wakatime](https://wakatime.com/badge/user/eee74027-39b5-400f-85f8-8cab13f6b3ae.svg)](https://wakatime.com/@eee74027-39b5-400f-85f8-8cab13f6b3ae)
 
-### A backend engineer who loves to code and learn new things
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhiya-kellouche-8110281a7/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/14262458/dhiya) 
 
-- 🔭 Bachelor's degree in Computer Science - **2022**
-- 💻 I'm currently learning **NodeJS EcoSystem**
-- 📚 I'm currently reading: **Express in Action**
-- 📆 2023 Goals: Help people to learn programming and web development
-- ❇️ Fun fact: I love to Draw 🖌 and watch Anime 📺
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=proXDhiya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=proXDhiya&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=proXDhiya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=proXDhiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Languages and tools
-
-![c](https://skillicons.dev/icons?i=c)
-![c++](https://skillicons.dev/icons?i=cpp)
-![java](https://skillicons.dev/icons?i=java)
-![php](https://skillicons.dev/icons?i=php)
-![js](https://skillicons.dev/icons?i=js)
-![ts](https://skillicons.dev/icons?i=ts)
-![python](https://skillicons.dev/icons?i=python)
-![html](https://skillicons.dev/icons?i=html)
-![css](https://skillicons.dev/icons?i=css)
-![sass](https://skillicons.dev/icons?i=sass)
-![pug](https://skillicons.dev/icons?i=pug)
-![nodeJS](https://skillicons.dev/icons?i=nodejs)
-![expressJS](https://skillicons.dev/icons?i=express)
-![reactJS](https://skillicons.dev/icons?i=react)
-![bash](https://skillicons.dev/icons?i=bash)
-![git](https://skillicons.dev/icons?i=git)
-![github](https://skillicons.dev/icons?i=github)
-![mysql](https://skillicons.dev/icons?i=mysql)
-![postgreSQL](https://skillicons.dev/icons?i=postgresql)
-![Sqlite](https://skillicons.dev/icons?i=sqlite)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![redis](https://skillicons.dev/icons?i=redis)
-![cassandra](https://skillicons.dev/icons?i=cassandra)
-![linux](https://skillicons.dev/icons?i=linux)
-![docker](https://skillicons.dev/icons?i=docker)
-![figma](https://skillicons.dev/icons?i=figma)
-![vscode](https://skillicons.dev/icons?i=vscode)
-![heroku](https://skillicons.dev/icons?i=heroku)
-![discord](https://skillicons.dev/icons?i=discord)
-![bots](https://skillicons.dev/icons?i=bots)
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=proxdhiya&bg_color=d1e5ff&color=4c7b9e&line=4c659e&point=3e4041&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-|  |  |
-| --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=proXDhiya&title_color=fa595f&bg_color=dcf0f3"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=proXDhiya&background=dcf0f3&ring=fa595f&currStreakLabel=4b1a1c"/> |
-
-### My Roadmap.sh profile
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6497e884d99c9d673193e350?variant=dark)](https://roadmap.sh)
-
-- 📫 How to reach me: **prox.dhiya@gmail.com**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
